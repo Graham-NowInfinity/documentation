@@ -1,0 +1,22 @@
+#Release notes 26 April 2019:
+**1. Updated the logic of Annual Statement reminders**
+- The “Send to Billing contact” tick box will no longer be selected be default when sending Annual Statements.
+- The reminders recipient details will update when the Billing contact information is updated
+- Annual Statement reminders will be sent to the Annual Statement recipient if the Billing Contact does not exist in the company profile.
+
+**2. Updated the validation rules for Signing and Billing contact details**
+- The Preferred name and Postal address details for Signing and Billing contacts are optional in Corporate Messenger, Trust Register and SuperComply.
+
+**3.ABN/TFN application available for more trust types**
+Added a link to complete ABN/TFN application on Collaboration page for the following trust.
+- Fixed Trust
+- Hybrid trust
+- SUIT trust
+- NSW Land Tax Unit trust
+- Regulation 13.22C trust
+
+**4. ASIC lodgement Status**
+- Update logic to display the correct ASIC Status on the lodgement page.
+
+**5. Search function in Trust Register**
+- The search function in Trust Register now includes the look up of Appointor and Settlor names
